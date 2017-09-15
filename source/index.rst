@@ -1,20 +1,30 @@
-.. Pythings documentation master file, created by
-   sphinx-quickstart on Fri Sep 15 08:17:41 2017.
+.. Python Note documentation master file, created by
+   sphinx-quickstart on Sat Mar 25 09:30:42 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Pythings's documentation!
-====================================
+Pythings
+=======================================
+.. note::
 
+    Full Stack Python.
+
+目录:
+^^^^^
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :glob:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   beginning/index
+   Web_Development/index
+   Performance/index
+   Security/index 
+   Web APIs/index
+   Web_App_Deployment/index
+   Database/index
+   Test/index
+   Spider/index
+   Data_analysis/index
+   Algorithm/index
+   Design Patterns/index 
+   Python Source Code/index
