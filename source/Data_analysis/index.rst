@@ -10,7 +10,7 @@ Python与数据分析
     :glob:
 
     Pandas
-    Numpy
+    NumPy
     SciPy
     Blaze
 
