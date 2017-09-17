@@ -1,5 +1,3 @@
-.. _database-overview:
-
 Python Web 开发
 =================
 

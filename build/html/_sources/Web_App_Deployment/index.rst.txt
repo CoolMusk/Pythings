@@ -1,6 +1,4 @@
-.. _database-overview:
-
-Web应用部署
+wwWeb应用部署
 =================
 Web应用部署
 

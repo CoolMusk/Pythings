@@ -1,5 +1,3 @@
-.. _database-overview:
-
 Web APIs
 =================
 

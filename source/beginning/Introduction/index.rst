@@ -1,10 +1,5 @@
-.. _database-overview:
-
 Python基础编程
-==========
-
-Python基础
-
+===============
 
 .. toctree::
     :maxdepth: 4
