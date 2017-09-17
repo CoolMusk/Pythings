@@ -3,7 +3,7 @@
 
 - Python从入门到精通
   - Python基础编程
-  - Python学习路线
+    - Python入门指南
 - Python高级技巧
   - 基于libev的并发库：Gevent
   - Twisted与异步编程
@@ -15,7 +15,7 @@
     - Bottle
     - Pyramid
     - 其他框架
-  - 模板引擎
+- 模板引擎
     - Jinja2
     - Django Templates
     - Mako
